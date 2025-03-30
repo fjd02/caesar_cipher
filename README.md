@@ -29,7 +29,7 @@ Make sure you have **Python 3.x** installed on your system.
 Clone the repository (or download the script) and run it:
 
 ```bash
-python cipher.py
+python main.py
 ```
 
 Then, enter the message and the shift value when prompted.
