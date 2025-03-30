@@ -34,7 +34,7 @@ python main.py
 
 Then, enter the message and the shift value when prompted.
 
-### 🔹 Example
+### 🔹 Encrypt Example
 
 #### Input:
 
@@ -48,6 +48,21 @@ Introduce the shift: 3
 ```
 plain text: hello 123
 encrypted text: khoor 456
+```
+### 🔹 Decrypt Example
+
+#### Input:
+
+```
+Introduce the message: khoor 456
+Introduce the shift: -3
+```
+
+#### Output:
+
+```
+plain text: khoor 456
+encrypted text: hello 123
 ```
 
 ## 🔧 Technologies Used
