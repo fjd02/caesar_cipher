@@ -1,4 +1,4 @@
-# 🔐 Caesar Cipher with Numbers
+# 🔐 Caesar Cipher
 
 A simple Python script that implements the **Caesar Cipher**.
 
